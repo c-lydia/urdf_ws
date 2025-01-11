@@ -1,0 +1,8 @@
+/home/lydia-chheng/urdf_ws/build/turtlesim_msgs/rosidl_adapter/turtlesim_msgs:msg/Color.idl
+/home/lydia-chheng/urdf_ws/build/turtlesim_msgs/rosidl_adapter/turtlesim_msgs:msg/Pose.idl
+/home/lydia-chheng/urdf_ws/build/turtlesim_msgs/rosidl_adapter/turtlesim_msgs:action/RotateAbsolute.idl
+/home/lydia-chheng/urdf_ws/build/turtlesim_msgs/rosidl_adapter/turtlesim_msgs:srv/Kill.idl
+/home/lydia-chheng/urdf_ws/build/turtlesim_msgs/rosidl_adapter/turtlesim_msgs:srv/SetPen.idl
+/home/lydia-chheng/urdf_ws/build/turtlesim_msgs/rosidl_adapter/turtlesim_msgs:srv/Spawn.idl
+/home/lydia-chheng/urdf_ws/build/turtlesim_msgs/rosidl_adapter/turtlesim_msgs:srv/TeleportAbsolute.idl
+/home/lydia-chheng/urdf_ws/build/turtlesim_msgs/rosidl_adapter/turtlesim_msgs:srv/TeleportRelative.idl
