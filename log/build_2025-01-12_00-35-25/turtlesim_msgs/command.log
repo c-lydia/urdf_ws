@@ -1,0 +1,6 @@
+Invoking command in '/home/lydia-chheng/urdf_ws/build/turtlesim_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/lydia-chheng/urdf_ws/ros_tutorials/turtlesim_msgs -DCMAKE_INSTALL_PREFIX=/home/lydia-chheng/urdf_ws/install/turtlesim_msgs
+Invoked command in '/home/lydia-chheng/urdf_ws/build/turtlesim_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/lydia-chheng/urdf_ws/ros_tutorials/turtlesim_msgs -DCMAKE_INSTALL_PREFIX=/home/lydia-chheng/urdf_ws/install/turtlesim_msgs
+Invoking command in '/home/lydia-chheng/urdf_ws/build/turtlesim_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/lydia-chheng/urdf_ws/build/turtlesim_msgs -- -j4 -l4
+Invoked command in '/home/lydia-chheng/urdf_ws/build/turtlesim_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/lydia-chheng/urdf_ws/build/turtlesim_msgs -- -j4 -l4
+Invoking command in '/home/lydia-chheng/urdf_ws/build/turtlesim_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/lydia-chheng/urdf_ws/build/turtlesim_msgs
+Invoked command in '/home/lydia-chheng/urdf_ws/build/turtlesim_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/lydia-chheng/urdf_ws/build/turtlesim_msgs

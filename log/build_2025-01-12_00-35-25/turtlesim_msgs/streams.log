@@ -1,0 +1,479 @@
+[0.015s] Invoking command in '/home/lydia-chheng/urdf_ws/build/turtlesim_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/lydia-chheng/urdf_ws/ros_tutorials/turtlesim_msgs -DCMAKE_INSTALL_PREFIX=/home/lydia-chheng/urdf_ws/install/turtlesim_msgs
+[0.308s] -- The C compiler identification is GNU 11.4.0
+[0.525s] -- The CXX compiler identification is GNU 11.4.0
+[0.559s] -- Detecting C compiler ABI info
+[0.710s] -- Detecting C compiler ABI info - done
+[0.732s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.733s] -- Detecting C compile features
+[0.735s] -- Detecting C compile features - done
+[0.745s] -- Detecting CXX compiler ABI info
+[0.876s] -- Detecting CXX compiler ABI info - done
+[0.892s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.892s] -- Detecting CXX compile features
+[0.893s] -- Detecting CXX compile features - done
+[0.901s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.500s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.692s] -- Found builtin_interfaces: 1.2.1 (/opt/ros/humble/share/builtin_interfaces/cmake)
+[1.769s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.778s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.800s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.834s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.877s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.915s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[2.591s] -- Found ament_cmake_cppcheck: 0.12.11 (/opt/ros/humble/share/ament_cmake_cppcheck/cmake)
+[2.600s] -- Found ament_cmake_cpplint: 0.12.11 (/opt/ros/humble/share/ament_cmake_cpplint/cmake)
+[2.610s] -- Found ament_cmake_uncrustify: 0.12.11 (/opt/ros/humble/share/ament_cmake_uncrustify/cmake)
+[2.617s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[3.258s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[3.511s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[3.572s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[3.577s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[3.636s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[3.636s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[3.637s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[3.637s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[3.680s] -- Found PythonExtra: .so  
+[3.764s] -- Found ament_cmake_flake8: 0.12.11 (/opt/ros/humble/share/ament_cmake_flake8/cmake)
+[3.770s] -- Found ament_cmake_pep257: 0.12.11 (/opt/ros/humble/share/ament_cmake_pep257/cmake)
+[3.806s] -- Configuring done
+[3.900s] -- Generating done
+[3.920s] -- Build files have been written to: /home/lydia-chheng/urdf_ws/build/turtlesim_msgs
+[3.935s] Invoked command in '/home/lydia-chheng/urdf_ws/build/turtlesim_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/lydia-chheng/urdf_ws/ros_tutorials/turtlesim_msgs -DCMAKE_INSTALL_PREFIX=/home/lydia-chheng/urdf_ws/install/turtlesim_msgs
+[3.940s] Invoking command in '/home/lydia-chheng/urdf_ws/build/turtlesim_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/lydia-chheng/urdf_ws/build/turtlesim_msgs -- -j4 -l4
+[4.009s] [  1%] [34m[1mGenerating C code for ROS interfaces[0m
+[4.030s] [  2%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[4.032s] [  2%] Built target ament_cmake_python_copy_turtlesim_msgs
+[4.460s] running egg_info
+[4.495s] creating turtlesim_msgs.egg-info
+[4.496s] writing turtlesim_msgs.egg-info/PKG-INFO
+[4.496s] writing dependency_links to turtlesim_msgs.egg-info/dependency_links.txt
+[4.497s] writing top-level names to turtlesim_msgs.egg-info/top_level.txt
+[4.497s] writing manifest file 'turtlesim_msgs.egg-info/SOURCES.txt'
+[4.623s] reading manifest file 'turtlesim_msgs.egg-info/SOURCES.txt'
+[4.624s] writing manifest file 'turtlesim_msgs.egg-info/SOURCES.txt'
+[4.678s] [  2%] Built target ament_cmake_python_build_turtlesim_msgs_egg
+[6.178s] [  2%] Built target turtlesim_msgs__cpp
+[6.216s] [  3%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[6.220s] [  4%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[6.227s] [  5%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[6.493s] [  6%] [32mBuilding C object CMakeFiles/turtlesim_msgs__rosidl_generator_c.dir/rosidl_generator_c/turtlesim_msgs/msg/detail/color__functions.c.o[0m
+[6.642s] [  8%] [32mBuilding C object CMakeFiles/turtlesim_msgs__rosidl_generator_c.dir/rosidl_generator_c/turtlesim_msgs/msg/detail/pose__functions.c.o[0m
+[6.778s] [  9%] [32mBuilding C object CMakeFiles/turtlesim_msgs__rosidl_generator_c.dir/rosidl_generator_c/turtlesim_msgs/action/detail/rotate_absolute__functions.c.o[0m
+[7.191s] [ 10%] [32mBuilding C object CMakeFiles/turtlesim_msgs__rosidl_generator_c.dir/rosidl_generator_c/turtlesim_msgs/srv/detail/kill__functions.c.o[0m
+[7.338s] [ 11%] [32mBuilding C object CMakeFiles/turtlesim_msgs__rosidl_generator_c.dir/rosidl_generator_c/turtlesim_msgs/srv/detail/set_pen__functions.c.o[0m
+[7.481s] [ 12%] [32mBuilding C object CMakeFiles/turtlesim_msgs__rosidl_generator_c.dir/rosidl_generator_c/turtlesim_msgs/srv/detail/spawn__functions.c.o[0m
+[7.632s] [ 13%] [32mBuilding C object CMakeFiles/turtlesim_msgs__rosidl_generator_c.dir/rosidl_generator_c/turtlesim_msgs/srv/detail/teleport_absolute__functions.c.o[0m
+[7.767s] [ 14%] [32mBuilding C object CMakeFiles/turtlesim_msgs__rosidl_generator_c.dir/rosidl_generator_c/turtlesim_msgs/srv/detail/teleport_relative__functions.c.o[0m
+[7.899s] [ 16%] [32m[1mLinking C shared library libturtlesim_msgs__rosidl_generator_c.so[0m
+[7.987s] [ 16%] Built target turtlesim_msgs__rosidl_generator_c
+[8.023s] [ 17%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[8.047s] [ 18%] [32mBuilding CXX object CMakeFiles/turtlesim_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/turtlesim_msgs/msg/color__type_support.cpp.o[0m
+[8.702s] [ 19%] [32mBuilding CXX object CMakeFiles/turtlesim_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/turtlesim_msgs/msg/detail/color__type_support.cpp.o[0m
+[8.930s] [ 20%] [32mBuilding CXX object CMakeFiles/turtlesim_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/turtlesim_msgs/msg/pose__type_support.cpp.o[0m
+[9.239s] [ 21%] [32mBuilding CXX object CMakeFiles/turtlesim_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/turtlesim_msgs/msg/detail/dds_fastrtps/color__type_support.cpp.o[0m
+[9.712s] [ 22%] [32mBuilding CXX object CMakeFiles/turtlesim_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/turtlesim_msgs/action/rotate_absolute__type_support.cpp.o[0m
+[9.902s] [ 24%] [32mBuilding CXX object CMakeFiles/turtlesim_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/turtlesim_msgs/msg/detail/pose__type_support.cpp.o[0m
+[10.486s] [ 25%] [32mBuilding CXX object CMakeFiles/turtlesim_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/turtlesim_msgs/msg/detail/dds_fastrtps/pose__type_support.cpp.o[0m
+[10.906s] [ 26%] [32mBuilding CXX object CMakeFiles/turtlesim_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/turtlesim_msgs/msg/detail/color__type_support_c.cpp.o[0m
+[11.016s] [ 27%] [32mBuilding CXX object CMakeFiles/turtlesim_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/turtlesim_msgs/action/detail/rotate_absolute__type_support.cpp.o[0m
+[11.093s] [ 28%] [32mBuilding CXX object CMakeFiles/turtlesim_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/turtlesim_msgs/srv/kill__type_support.cpp.o[0m
+[11.661s] [ 29%] [32mBuilding CXX object CMakeFiles/turtlesim_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/turtlesim_msgs/action/detail/dds_fastrtps/rotate_absolute__type_support.cpp.o[0m
+[11.880s] [ 31%] [32mBuilding CXX object CMakeFiles/turtlesim_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/turtlesim_msgs/srv/set_pen__type_support.cpp.o[0m
+[12.048s] [ 32%] [32mBuilding CXX object CMakeFiles/turtlesim_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/turtlesim_msgs/msg/detail/pose__type_support_c.cpp.o[0m
+[12.623s] [ 33%] [32mBuilding CXX object CMakeFiles/turtlesim_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/turtlesim_msgs/srv/spawn__type_support.cpp.o[0m
+[12.853s] [ 34%] [32mBuilding CXX object CMakeFiles/turtlesim_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/turtlesim_msgs/srv/detail/kill__type_support.cpp.o[0m
+[13.016s] [ 35%] [32mBuilding CXX object CMakeFiles/turtlesim_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/turtlesim_msgs/action/detail/rotate_absolute__type_support_c.cpp.o[0m
+[13.355s] [ 36%] [32mBuilding CXX object CMakeFiles/turtlesim_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/turtlesim_msgs/srv/detail/dds_fastrtps/kill__type_support.cpp.o[0m
+[13.465s] [ 37%] [32mBuilding CXX object CMakeFiles/turtlesim_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/turtlesim_msgs/srv/teleport_absolute__type_support.cpp.o[0m
+[13.992s] [ 39%] [32mBuilding CXX object CMakeFiles/turtlesim_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/turtlesim_msgs/srv/detail/set_pen__type_support.cpp.o[0m
+[14.184s] [ 40%] [32mBuilding CXX object CMakeFiles/turtlesim_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/turtlesim_msgs/srv/detail/kill__type_support_c.cpp.o[0m
+[14.238s] [ 41%] [32mBuilding CXX object CMakeFiles/turtlesim_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/turtlesim_msgs/srv/teleport_relative__type_support.cpp.o[0m
+[14.547s] [ 42%] [32mBuilding CXX object CMakeFiles/turtlesim_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/turtlesim_msgs/srv/detail/dds_fastrtps/set_pen__type_support.cpp.o[0m
+[14.976s] [ 43%] [32m[1mLinking CXX shared library libturtlesim_msgs__rosidl_typesupport_cpp.so[0m
+[15.084s] [ 43%] Built target turtlesim_msgs__rosidl_typesupport_cpp
+[15.102s] [ 44%] [32mBuilding CXX object CMakeFiles/turtlesim_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/turtlesim_msgs/srv/detail/spawn__type_support.cpp.o[0m
+[15.203s] [ 45%] [32mBuilding CXX object CMakeFiles/turtlesim_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/turtlesim_msgs/srv/detail/set_pen__type_support_c.cpp.o[0m
+[15.291s] [ 47%] [32mBuilding CXX object CMakeFiles/turtlesim_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/turtlesim_msgs/srv/detail/dds_fastrtps/spawn__type_support.cpp.o[0m
+[15.776s] [ 48%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[16.152s] [ 49%] [32mBuilding CXX object CMakeFiles/turtlesim_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/turtlesim_msgs/srv/detail/spawn__type_support_c.cpp.o[0m
+[16.248s] [ 50%] [32mBuilding CXX object CMakeFiles/turtlesim_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/turtlesim_msgs/srv/detail/teleport_absolute__type_support.cpp.o[0m
+[16.535s] [ 51%] [32mBuilding CXX object CMakeFiles/turtlesim_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/turtlesim_msgs/srv/detail/dds_fastrtps/teleport_absolute__type_support.cpp.o[0m
+[17.190s] [ 52%] [32mBuilding CXX object CMakeFiles/turtlesim_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/turtlesim_msgs/srv/detail/teleport_absolute__type_support_c.cpp.o[0m
+[17.372s] [ 54%] [32mBuilding CXX object CMakeFiles/turtlesim_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/turtlesim_msgs/srv/detail/teleport_relative__type_support.cpp.o[0m
+[17.714s] [ 55%] [32mBuilding CXX object CMakeFiles/turtlesim_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/turtlesim_msgs/srv/detail/dds_fastrtps/teleport_relative__type_support.cpp.o[0m
+[18.218s] [ 56%] [32mBuilding CXX object CMakeFiles/turtlesim_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/turtlesim_msgs/srv/detail/teleport_relative__type_support_c.cpp.o[0m
+[18.455s] [ 57%] [32mBuilding C object CMakeFiles/turtlesim_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/turtlesim_msgs/msg/detail/color__type_support.c.o[0m
+[18.490s] [ 58%] [32m[1mLinking CXX shared library libturtlesim_msgs__rosidl_typesupport_introspection_cpp.so[0m
+[18.537s] [ 59%] [32mBuilding C object CMakeFiles/turtlesim_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/turtlesim_msgs/msg/detail/pose__type_support.c.o[0m
+[18.612s] [ 60%] [32mBuilding C object CMakeFiles/turtlesim_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/turtlesim_msgs/action/detail/rotate_absolute__type_support.c.o[0m
+[18.702s] [ 60%] Built target turtlesim_msgs__rosidl_typesupport_introspection_cpp
+[18.723s] [ 62%] [32mBuilding C object CMakeFiles/turtlesim_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/turtlesim_msgs/srv/detail/kill__type_support.c.o[0m
+[18.745s] [ 63%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[18.822s] [ 64%] [32mBuilding C object CMakeFiles/turtlesim_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/turtlesim_msgs/srv/detail/set_pen__type_support.c.o[0m
+[18.908s] [ 65%] [32mBuilding C object CMakeFiles/turtlesim_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/turtlesim_msgs/srv/detail/spawn__type_support.c.o[0m
+[18.965s] [ 66%] [32m[1mLinking CXX shared library libturtlesim_msgs__rosidl_typesupport_fastrtps_cpp.so[0m
+[18.997s] [ 67%] [32mBuilding C object CMakeFiles/turtlesim_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/turtlesim_msgs/srv/detail/teleport_absolute__type_support.c.o[0m
+[19.094s] [ 68%] [32mBuilding C object CMakeFiles/turtlesim_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/turtlesim_msgs/srv/detail/teleport_relative__type_support.c.o[0m
+[19.180s] [ 68%] Built target turtlesim_msgs__rosidl_typesupport_fastrtps_cpp
+[19.185s] [ 70%] [32m[1mLinking C shared library libturtlesim_msgs__rosidl_typesupport_introspection_c.so[0m
+[19.238s] [ 71%] [32m[1mLinking CXX shared library libturtlesim_msgs__rosidl_typesupport_fastrtps_c.so[0m
+[19.253s] [ 71%] Built target turtlesim_msgs__rosidl_typesupport_introspection_c
+[19.374s] [ 71%] Built target turtlesim_msgs__rosidl_typesupport_fastrtps_c
+[19.921s] [ 75%] [32mBuilding CXX object CMakeFiles/turtlesim_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/turtlesim_msgs/action/rotate_absolute__type_support.cpp.o[0m
+[19.922s] [ 75%] [32mBuilding CXX object CMakeFiles/turtlesim_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/turtlesim_msgs/msg/color__type_support.cpp.o[0m
+[19.922s] [ 75%] [32mBuilding CXX object CMakeFiles/turtlesim_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/turtlesim_msgs/srv/kill__type_support.cpp.o[0m
+[19.922s] [ 75%] [32mBuilding CXX object CMakeFiles/turtlesim_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/turtlesim_msgs/msg/pose__type_support.cpp.o[0m
+[19.997s] [ 77%] [32mBuilding CXX object CMakeFiles/turtlesim_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/turtlesim_msgs/srv/set_pen__type_support.cpp.o[0m
+[20.001s] [ 78%] [32mBuilding CXX object CMakeFiles/turtlesim_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/turtlesim_msgs/srv/spawn__type_support.cpp.o[0m
+[20.003s] [ 79%] [32mBuilding CXX object CMakeFiles/turtlesim_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/turtlesim_msgs/srv/teleport_absolute__type_support.cpp.o[0m
+[20.043s] [ 80%] [32mBuilding CXX object CMakeFiles/turtlesim_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/turtlesim_msgs/srv/teleport_relative__type_support.cpp.o[0m
+[20.094s] [ 81%] [32m[1mLinking CXX shared library libturtlesim_msgs__rosidl_typesupport_c.so[0m
+[20.160s] [ 81%] Built target turtlesim_msgs__rosidl_typesupport_c
+[20.192s] [ 81%] Built target turtlesim_msgs
+[20.228s] [ 82%] [34m[1mGenerating Python code for ROS interfaces[0m
+[23.306s] [ 82%] Built target turtlesim_msgs__py
+[23.344s] [ 83%] [32mBuilding C object CMakeFiles/turtlesim_msgs__rosidl_generator_py.dir/rosidl_generator_py/turtlesim_msgs/srv/_kill_s.c.o[0m
+[23.344s] [ 86%] [32mBuilding C object CMakeFiles/turtlesim_msgs__rosidl_generator_py.dir/rosidl_generator_py/turtlesim_msgs/action/_rotate_absolute_s.c.o[0m
+[23.345s] [ 86%] [32mBuilding C object CMakeFiles/turtlesim_msgs__rosidl_generator_py.dir/rosidl_generator_py/turtlesim_msgs/msg/_color_s.c.o[0m
+[23.345s] [ 87%] [32mBuilding C object CMakeFiles/turtlesim_msgs__rosidl_generator_py.dir/rosidl_generator_py/turtlesim_msgs/msg/_pose_s.c.o[0m
+[23.658s] [ 88%] [32mBuilding C object CMakeFiles/turtlesim_msgs__rosidl_generator_py.dir/rosidl_generator_py/turtlesim_msgs/srv/_set_pen_s.c.o[0m
+[23.661s] [ 89%] [32mBuilding C object CMakeFiles/turtlesim_msgs__rosidl_generator_py.dir/rosidl_generator_py/turtlesim_msgs/srv/_spawn_s.c.o[0m
+[23.665s] [ 90%] [32mBuilding C object CMakeFiles/turtlesim_msgs__rosidl_generator_py.dir/rosidl_generator_py/turtlesim_msgs/srv/_teleport_absolute_s.c.o[0m
+[23.767s] [ 91%] [32mBuilding C object CMakeFiles/turtlesim_msgs__rosidl_generator_py.dir/rosidl_generator_py/turtlesim_msgs/srv/_teleport_relative_s.c.o[0m
+[24.023s] [ 93%] [32m[1mLinking C shared library rosidl_generator_py/turtlesim_msgs/libturtlesim_msgs__rosidl_generator_py.so[0m
+[24.094s] [ 93%] Built target turtlesim_msgs__rosidl_generator_py
+[24.127s] [ 94%] [32mBuilding C object CMakeFiles/turtlesim_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/turtlesim_msgs/_turtlesim_msgs_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[24.132s] [ 95%] [32mBuilding C object CMakeFiles/turtlesim_msgs__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/turtlesim_msgs/_turtlesim_msgs_s.ep.rosidl_typesupport_c.c.o[0m
+[24.132s] [ 96%] [32mBuilding C object CMakeFiles/turtlesim_msgs__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/turtlesim_msgs/_turtlesim_msgs_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[24.430s] [ 97%] [32m[1mLinking C shared library rosidl_generator_py/turtlesim_msgs/turtlesim_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so[0m
+[24.505s] [ 97%] Built target turtlesim_msgs__rosidl_typesupport_c__pyext
+[24.533s] [ 98%] [32m[1mLinking C shared library rosidl_generator_py/turtlesim_msgs/turtlesim_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so[0m
+[24.546s] [100%] [32m[1mLinking C shared library rosidl_generator_py/turtlesim_msgs/turtlesim_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so[0m
+[24.600s] [100%] Built target turtlesim_msgs__rosidl_typesupport_introspection_c__pyext
+[24.609s] [100%] Built target turtlesim_msgs__rosidl_typesupport_fastrtps_c__pyext
+[24.627s] Invoked command in '/home/lydia-chheng/urdf_ws/build/turtlesim_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/lydia-chheng/urdf_ws/build/turtlesim_msgs -- -j4 -l4
+[24.644s] Invoking command in '/home/lydia-chheng/urdf_ws/build/turtlesim_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/lydia-chheng/urdf_ws/build/turtlesim_msgs
+[24.657s] -- Install configuration: ""
+[24.657s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/ament_index/resource_index/rosidl_interfaces/turtlesim_msgs
+[24.658s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs
+[24.658s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv
+[24.659s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/teleport_absolute.h
+[24.659s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/set_pen.h
+[24.659s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/kill.h
+[24.659s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail
+[24.660s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/set_pen__struct.h
+[24.660s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/teleport_absolute__type_support.h
+[24.661s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/spawn__struct.h
+[24.661s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/kill__struct.h
+[24.661s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/teleport_absolute__functions.c
+[24.662s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/set_pen__functions.h
+[24.662s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/kill__functions.c
+[24.662s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/teleport_absolute__struct.h
+[24.663s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/teleport_relative__functions.c
+[24.663s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/spawn__functions.c
+[24.663s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/spawn__functions.h
+[24.663s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/spawn__type_support.h
+[24.664s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/teleport_relative__type_support.h
+[24.664s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/teleport_absolute__functions.h
+[24.664s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/kill__functions.h
+[24.665s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/kill__type_support.h
+[24.665s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/set_pen__functions.c
+[24.665s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/set_pen__type_support.h
+[24.666s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/teleport_relative__functions.h
+[24.666s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/teleport_relative__struct.h
+[24.666s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/spawn.h
+[24.666s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/teleport_relative.h
+[24.667s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/action
+[24.667s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/action/detail
+[24.667s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/action/detail/rotate_absolute__type_support.h
+[24.668s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/action/detail/rotate_absolute__struct.h
+[24.668s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/action/detail/rotate_absolute__functions.c
+[24.668s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/action/detail/rotate_absolute__functions.h
+[24.668s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/action/rotate_absolute.h
+[24.669s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/msg
+[24.669s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/msg/detail
+[24.669s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/msg/detail/pose__type_support.h
+[24.669s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/msg/detail/pose__functions.h
+[24.670s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/msg/detail/pose__struct.h
+[24.670s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/msg/detail/color__functions.h
+[24.670s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/msg/detail/color__type_support.h
+[24.670s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/msg/detail/color__struct.h
+[24.671s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/msg/detail/color__functions.c
+[24.671s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/msg/detail/pose__functions.c
+[24.671s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/msg/pose.h
+[24.671s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/msg/color.h
+[24.671s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/msg/rosidl_generator_c__visibility_control.h
+[24.672s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/environment/library_path.sh
+[24.672s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/environment/library_path.dsv
+[24.672s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/lib/libturtlesim_msgs__rosidl_generator_c.so
+[24.673s] -- Set runtime path of "/home/lydia-chheng/urdf_ws/install/turtlesim_msgs/lib/libturtlesim_msgs__rosidl_generator_c.so" to ""
+[24.673s] -- Up-to-date: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs
+[24.674s] -- Up-to-date: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv
+[24.674s] -- Up-to-date: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail
+[24.674s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/spawn__rosidl_typesupport_fastrtps_c.h
+[24.674s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/set_pen__rosidl_typesupport_fastrtps_c.h
+[24.674s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/teleport_absolute__rosidl_typesupport_fastrtps_c.h
+[24.674s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/teleport_relative__rosidl_typesupport_fastrtps_c.h
+[24.675s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/kill__rosidl_typesupport_fastrtps_c.h
+[24.675s] -- Up-to-date: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/action
+[24.675s] -- Up-to-date: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/action/detail
+[24.675s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/action/detail/rotate_absolute__rosidl_typesupport_fastrtps_c.h
+[24.675s] -- Up-to-date: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/msg
+[24.675s] -- Up-to-date: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/msg/detail
+[24.676s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/msg/detail/color__rosidl_typesupport_fastrtps_c.h
+[24.676s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/msg/detail/pose__rosidl_typesupport_fastrtps_c.h
+[24.676s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[24.676s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/lib/libturtlesim_msgs__rosidl_typesupport_fastrtps_c.so
+[24.677s] -- Set runtime path of "/home/lydia-chheng/urdf_ws/install/turtlesim_msgs/lib/libturtlesim_msgs__rosidl_typesupport_fastrtps_c.so" to ""
+[24.677s] -- Up-to-date: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs
+[24.677s] -- Up-to-date: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv
+[24.677s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/kill.hpp
+[24.677s] -- Up-to-date: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail
+[24.677s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/teleport_absolute__traits.hpp
+[24.678s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/kill__struct.hpp
+[24.678s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/teleport_absolute__struct.hpp
+[24.678s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/teleport_absolute__type_support.hpp
+[24.678s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/kill__traits.hpp
+[24.679s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/set_pen__traits.hpp
+[24.679s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/kill__builder.hpp
+[24.679s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/set_pen__struct.hpp
+[24.679s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/kill__type_support.hpp
+[24.679s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/spawn__type_support.hpp
+[24.679s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/set_pen__type_support.hpp
+[24.680s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/teleport_relative__struct.hpp
+[24.680s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/teleport_relative__builder.hpp
+[24.680s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/spawn__traits.hpp
+[24.680s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/teleport_relative__traits.hpp
+[24.681s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/set_pen__builder.hpp
+[24.681s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/spawn__builder.hpp
+[24.681s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/teleport_absolute__builder.hpp
+[24.681s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/teleport_relative__type_support.hpp
+[24.681s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/spawn__struct.hpp
+[24.682s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/teleport_relative.hpp
+[24.682s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/teleport_absolute.hpp
+[24.682s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/set_pen.hpp
+[24.682s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/spawn.hpp
+[24.683s] -- Up-to-date: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/action
+[24.683s] -- Up-to-date: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/action/detail
+[24.683s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/action/detail/rotate_absolute__type_support.hpp
+[24.683s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/action/detail/rotate_absolute__struct.hpp
+[24.683s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/action/detail/rotate_absolute__traits.hpp
+[24.683s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/action/detail/rotate_absolute__builder.hpp
+[24.684s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/action/rotate_absolute.hpp
+[24.684s] -- Up-to-date: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/msg
+[24.684s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/msg/rosidl_generator_cpp__visibility_control.hpp
+[24.684s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/msg/color.hpp
+[24.684s] -- Up-to-date: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/msg/detail
+[24.685s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/msg/detail/pose__builder.hpp
+[24.685s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/msg/detail/color__type_support.hpp
+[24.685s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/msg/detail/pose__struct.hpp
+[24.685s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/msg/detail/pose__traits.hpp
+[24.685s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/msg/detail/color__traits.hpp
+[24.685s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/msg/detail/pose__type_support.hpp
+[24.686s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/msg/detail/color__struct.hpp
+[24.686s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/msg/detail/color__builder.hpp
+[24.686s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/msg/pose.hpp
+[24.686s] -- Up-to-date: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs
+[24.687s] -- Up-to-date: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv
+[24.687s] -- Up-to-date: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail
+[24.687s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/dds_fastrtps
+[24.687s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/set_pen__rosidl_typesupport_fastrtps_cpp.hpp
+[24.687s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/teleport_absolute__rosidl_typesupport_fastrtps_cpp.hpp
+[24.688s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/teleport_relative__rosidl_typesupport_fastrtps_cpp.hpp
+[24.688s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/spawn__rosidl_typesupport_fastrtps_cpp.hpp
+[24.688s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/kill__rosidl_typesupport_fastrtps_cpp.hpp
+[24.689s] -- Up-to-date: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/action
+[24.689s] -- Up-to-date: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/action/detail
+[24.689s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/action/detail/dds_fastrtps
+[24.690s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/action/detail/rotate_absolute__rosidl_typesupport_fastrtps_cpp.hpp
+[24.690s] -- Up-to-date: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/msg
+[24.690s] -- Up-to-date: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/msg/detail
+[24.691s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/msg/detail/dds_fastrtps
+[24.691s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/msg/detail/pose__rosidl_typesupport_fastrtps_cpp.hpp
+[24.691s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/msg/detail/color__rosidl_typesupport_fastrtps_cpp.hpp
+[24.691s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[24.692s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/lib/libturtlesim_msgs__rosidl_typesupport_fastrtps_cpp.so
+[24.692s] -- Set runtime path of "/home/lydia-chheng/urdf_ws/install/turtlesim_msgs/lib/libturtlesim_msgs__rosidl_typesupport_fastrtps_cpp.so" to ""
+[24.692s] -- Up-to-date: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs
+[24.692s] -- Up-to-date: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv
+[24.693s] -- Up-to-date: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail
+[24.693s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/set_pen__type_support.c
+[24.693s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/kill__type_support.c
+[24.693s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/set_pen__rosidl_typesupport_introspection_c.h
+[24.694s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/spawn__type_support.c
+[24.694s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/teleport_relative__type_support.c
+[24.694s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/teleport_absolute__rosidl_typesupport_introspection_c.h
+[24.694s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/spawn__rosidl_typesupport_introspection_c.h
+[24.695s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/teleport_absolute__type_support.c
+[24.695s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/teleport_relative__rosidl_typesupport_introspection_c.h
+[24.695s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/kill__rosidl_typesupport_introspection_c.h
+[24.695s] -- Up-to-date: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/action
+[24.696s] -- Up-to-date: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/action/detail
+[24.696s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/action/detail/rotate_absolute__rosidl_typesupport_introspection_c.h
+[24.696s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/action/detail/rotate_absolute__type_support.c
+[24.696s] -- Up-to-date: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/msg
+[24.696s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[24.697s] -- Up-to-date: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/msg/detail
+[24.697s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/msg/detail/pose__type_support.c
+[24.697s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/msg/detail/color__type_support.c
+[24.697s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/msg/detail/color__rosidl_typesupport_introspection_c.h
+[24.698s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/msg/detail/pose__rosidl_typesupport_introspection_c.h
+[24.698s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/lib/libturtlesim_msgs__rosidl_typesupport_introspection_c.so
+[24.698s] -- Set runtime path of "/home/lydia-chheng/urdf_ws/install/turtlesim_msgs/lib/libturtlesim_msgs__rosidl_typesupport_introspection_c.so" to ""
+[24.698s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/lib/libturtlesim_msgs__rosidl_typesupport_c.so
+[24.699s] -- Set runtime path of "/home/lydia-chheng/urdf_ws/install/turtlesim_msgs/lib/libturtlesim_msgs__rosidl_typesupport_c.so" to ""
+[24.699s] -- Up-to-date: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs
+[24.699s] -- Up-to-date: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv
+[24.699s] -- Up-to-date: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail
+[24.700s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/teleport_relative__rosidl_typesupport_introspection_cpp.hpp
+[24.700s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/kill__type_support.cpp
+[24.700s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/kill__rosidl_typesupport_introspection_cpp.hpp
+[24.700s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/teleport_relative__type_support.cpp
+[24.700s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/teleport_absolute__type_support.cpp
+[24.701s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/spawn__type_support.cpp
+[24.701s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/spawn__rosidl_typesupport_introspection_cpp.hpp
+[24.701s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/set_pen__type_support.cpp
+[24.701s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/teleport_absolute__rosidl_typesupport_introspection_cpp.hpp
+[24.701s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/srv/detail/set_pen__rosidl_typesupport_introspection_cpp.hpp
+[24.702s] -- Up-to-date: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/action
+[24.702s] -- Up-to-date: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/action/detail
+[24.702s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/action/detail/rotate_absolute__type_support.cpp
+[24.702s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/action/detail/rotate_absolute__rosidl_typesupport_introspection_cpp.hpp
+[24.702s] -- Up-to-date: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/msg
+[24.702s] -- Up-to-date: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/msg/detail
+[24.703s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/msg/detail/color__rosidl_typesupport_introspection_cpp.hpp
+[24.703s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/msg/detail/color__type_support.cpp
+[24.703s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/msg/detail/pose__rosidl_typesupport_introspection_cpp.hpp
+[24.703s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/include/turtlesim_msgs/turtlesim_msgs/msg/detail/pose__type_support.cpp
+[24.703s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/lib/libturtlesim_msgs__rosidl_typesupport_introspection_cpp.so
+[24.703s] -- Set runtime path of "/home/lydia-chheng/urdf_ws/install/turtlesim_msgs/lib/libturtlesim_msgs__rosidl_typesupport_introspection_cpp.so" to ""
+[24.703s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/lib/libturtlesim_msgs__rosidl_typesupport_cpp.so
+[24.704s] -- Set runtime path of "/home/lydia-chheng/urdf_ws/install/turtlesim_msgs/lib/libturtlesim_msgs__rosidl_typesupport_cpp.so" to ""
+[24.704s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/environment/pythonpath.sh
+[24.704s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/environment/pythonpath.dsv
+[24.704s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs-1.9.2-py3.10.egg-info
+[24.704s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs-1.9.2-py3.10.egg-info/top_level.txt
+[24.705s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs-1.9.2-py3.10.egg-info/SOURCES.txt
+[24.705s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs-1.9.2-py3.10.egg-info/PKG-INFO
+[24.705s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs-1.9.2-py3.10.egg-info/dependency_links.txt
+[24.705s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs
+[24.705s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs/_turtlesim_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[24.706s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs/turtlesim_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[24.706s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs/__init__.py
+[24.706s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs/_turtlesim_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[24.706s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs/_turtlesim_msgs_s.ep.rosidl_typesupport_c.c
+[24.707s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs/srv
+[24.707s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs/srv/_teleport_absolute.py
+[24.707s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs/srv/_teleport_relative_s.c
+[24.707s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs/srv/_kill_s.c
+[24.707s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs/srv/_spawn.py
+[24.708s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs/srv/__init__.py
+[24.708s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs/srv/_set_pen_s.c
+[24.708s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs/srv/_spawn_s.c
+[24.708s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs/srv/_teleport_absolute_s.c
+[24.708s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs/srv/_kill.py
+[24.709s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs/srv/_teleport_relative.py
+[24.709s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs/srv/_set_pen.py
+[24.709s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs/action
+[24.709s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs/action/_rotate_absolute.py
+[24.709s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs/action/_rotate_absolute_s.c
+[24.709s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs/action/__init__.py
+[24.710s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs/turtlesim_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[24.710s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs/libturtlesim_msgs__rosidl_generator_py.so
+[24.710s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs/turtlesim_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[24.710s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs/msg
+[24.710s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs/msg/__init__.py
+[24.710s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs/msg/_pose.py
+[24.711s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs/msg/_pose_s.c
+[24.711s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs/msg/_color_s.c
+[24.711s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs/msg/_color.py
+[24.791s] Listing '/home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs'...
+[24.791s] Compiling '/home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs/__init__.py'...
+[24.791s] Listing '/home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs/action'...
+[24.791s] Compiling '/home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs/action/__init__.py'...
+[24.791s] Compiling '/home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs/action/_rotate_absolute.py'...
+[24.792s] Listing '/home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs/msg'...
+[24.792s] Compiling '/home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs/msg/__init__.py'...
+[24.792s] Compiling '/home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs/msg/_color.py'...
+[24.792s] Compiling '/home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs/msg/_pose.py'...
+[24.792s] Listing '/home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs/srv'...
+[24.793s] Compiling '/home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs/srv/__init__.py'...
+[24.793s] Compiling '/home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs/srv/_kill.py'...
+[24.793s] Compiling '/home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs/srv/_set_pen.py'...
+[24.793s] Compiling '/home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs/srv/_spawn.py'...
+[24.793s] Compiling '/home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs/srv/_teleport_absolute.py'...
+[24.794s] Compiling '/home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs/srv/_teleport_relative.py'...
+[24.799s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs/turtlesim_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[24.800s] -- Set runtime path of "/home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs/turtlesim_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so" to ""
+[24.800s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs/turtlesim_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[24.801s] -- Set runtime path of "/home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs/turtlesim_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so" to ""
+[24.801s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs/turtlesim_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[24.802s] -- Set runtime path of "/home/lydia-chheng/urdf_ws/install/turtlesim_msgs/local/lib/python3.10/dist-packages/turtlesim_msgs/turtlesim_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so" to ""
+[24.802s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/lib/libturtlesim_msgs__rosidl_generator_py.so
+[24.803s] -- Set runtime path of "/home/lydia-chheng/urdf_ws/install/turtlesim_msgs/lib/libturtlesim_msgs__rosidl_generator_py.so" to ""
+[24.803s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/msg/Color.idl
+[24.804s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/msg/Pose.idl
+[24.804s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/action/RotateAbsolute.idl
+[24.804s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/srv/Kill.idl
+[24.804s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/srv/SetPen.idl
+[24.805s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/srv/Spawn.idl
+[24.805s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/srv/TeleportAbsolute.idl
+[24.805s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/srv/TeleportRelative.idl
+[24.805s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/msg/Color.msg
+[24.805s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/msg/Pose.msg
+[24.806s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/action/RotateAbsolute.action
+[24.806s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/srv/Kill.srv
+[24.806s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/srv/Kill_Request.msg
+[24.807s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/srv/Kill_Response.msg
+[24.807s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/srv/SetPen.srv
+[24.807s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/srv/SetPen_Request.msg
+[24.808s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/srv/SetPen_Response.msg
+[24.808s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/srv/Spawn.srv
+[24.808s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/srv/Spawn_Request.msg
+[24.809s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/srv/Spawn_Response.msg
+[24.809s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/srv/TeleportAbsolute.srv
+[24.809s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/srv/TeleportAbsolute_Request.msg
+[24.809s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/srv/TeleportAbsolute_Response.msg
+[24.810s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/srv/TeleportRelative.srv
+[24.810s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/srv/TeleportRelative_Request.msg
+[24.810s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/srv/TeleportRelative_Response.msg
+[24.811s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/ament_index/resource_index/package_run_dependencies/turtlesim_msgs
+[24.811s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/ament_index/resource_index/parent_prefix_path/turtlesim_msgs
+[24.812s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/environment/ament_prefix_path.sh
+[24.812s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/environment/ament_prefix_path.dsv
+[24.812s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/environment/path.sh
+[24.813s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/environment/path.dsv
+[24.813s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/local_setup.bash
+[24.813s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/local_setup.sh
+[24.813s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/local_setup.zsh
+[24.814s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/local_setup.dsv
+[24.814s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/package.dsv
+[24.815s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/ament_index/resource_index/packages/turtlesim_msgs
+[24.815s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/cmake/export_turtlesim_msgs__rosidl_generator_cExport.cmake
+[24.815s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/cmake/export_turtlesim_msgs__rosidl_generator_cExport-noconfig.cmake
+[24.816s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/cmake/export_turtlesim_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[24.816s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/cmake/export_turtlesim_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[24.816s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/cmake/export_turtlesim_msgs__rosidl_generator_cppExport.cmake
+[24.817s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/cmake/export_turtlesim_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[24.817s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/cmake/export_turtlesim_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[24.817s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/cmake/turtlesim_msgs__rosidl_typesupport_introspection_cExport.cmake
+[24.818s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/cmake/turtlesim_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[24.818s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/cmake/turtlesim_msgs__rosidl_typesupport_cExport.cmake
+[24.818s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/cmake/turtlesim_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[24.819s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/cmake/turtlesim_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[24.819s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/cmake/turtlesim_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[24.820s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/cmake/turtlesim_msgs__rosidl_typesupport_cppExport.cmake
+[24.820s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/cmake/turtlesim_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[24.820s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/cmake/export_turtlesim_msgs__rosidl_generator_pyExport.cmake
+[24.821s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/cmake/export_turtlesim_msgs__rosidl_generator_pyExport-noconfig.cmake
+[24.821s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/cmake/rosidl_cmake-extras.cmake
+[24.821s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[24.822s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[24.822s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[24.822s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[24.823s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[24.823s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[24.823s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/cmake/turtlesim_msgsConfig.cmake
+[24.824s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/cmake/turtlesim_msgsConfig-version.cmake
+[24.824s] -- Installing: /home/lydia-chheng/urdf_ws/install/turtlesim_msgs/share/turtlesim_msgs/package.xml
+[24.828s] Invoked command in '/home/lydia-chheng/urdf_ws/build/turtlesim_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/lydia-chheng/urdf_ws/build/turtlesim_msgs
