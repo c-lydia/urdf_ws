@@ -1,0 +1,28 @@
+[1.394s] Invoking command in '/home/lydia-chheng/urdf_ws/src/robot': PYTHONPATH=/home/lydia-chheng/urdf_ws/build/robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lydia-chheng/urdf_ws/install/robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/robot build --build-base /home/lydia-chheng/urdf_ws/build/robot/build install --record /home/lydia-chheng/urdf_ws/build/robot/install.log --single-version-externally-managed install_data
+[1.702s] /home/lydia-chheng/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:261: UserWarning: Unknown distribution option: 'tests_require'
+[1.702s]   warnings.warn(msg)
+[1.950s] running egg_info
+[1.982s] writing ../../build/robot/robot.egg-info/PKG-INFO
+[1.983s] writing dependency_links to ../../build/robot/robot.egg-info/dependency_links.txt
+[1.983s] writing requirements to ../../build/robot/robot.egg-info/requires.txt
+[1.984s] writing top-level names to ../../build/robot/robot.egg-info/top_level.txt
+[2.052s] reading manifest file '../../build/robot/robot.egg-info/SOURCES.txt'
+[2.053s] adding license file 'LICENSE'
+[2.054s] writing manifest file '../../build/robot/robot.egg-info/SOURCES.txt'
+[2.055s] running build
+[2.055s] running build_py
+[2.055s] copying robot/__init__.py -> /home/lydia-chheng/urdf_ws/build/robot/build/lib/robot
+[2.056s] running install
+[2.064s] running install_lib
+[2.100s] running install_data
+[2.100s] copying resource/robot -> /home/lydia-chheng/urdf_ws/install/robot/share/ament_index/resource_index/packages
+[2.100s] copying package.xml -> /home/lydia-chheng/urdf_ws/install/robot/share/robot
+[2.101s] copying launch/display.launch.py -> /home/lydia-chheng/urdf_ws/install/robot/share/robot/launch
+[2.101s] copying urdf/robot.urdf -> /home/lydia-chheng/urdf_ws/install/robot/share/robot/urdf
+[2.102s] copying rviz/display_config.rviz -> /home/lydia-chheng/urdf_ws/install/robot/share/robot/rviz
+[2.102s] running install_egg_info
+[2.139s] removing '/home/lydia-chheng/urdf_ws/install/robot/lib/python3.10/site-packages/robot-0.0.0-py3.10.egg-info' (and everything under it)
+[2.139s] Copying ../../build/robot/robot.egg-info to /home/lydia-chheng/urdf_ws/install/robot/lib/python3.10/site-packages/robot-0.0.0-py3.10.egg-info
+[2.141s] running install_scripts
+[2.419s] writing list of installed files to '/home/lydia-chheng/urdf_ws/build/robot/install.log'
+[2.468s] Invoked command in '/home/lydia-chheng/urdf_ws/src/robot' returned '0': PYTHONPATH=/home/lydia-chheng/urdf_ws/build/robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lydia-chheng/urdf_ws/install/robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/robot build --build-base /home/lydia-chheng/urdf_ws/build/robot/build install --record /home/lydia-chheng/urdf_ws/build/robot/install.log --single-version-externally-managed install_data

@@ -1,0 +1,26 @@
+/home/lydia-chheng/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:261: UserWarning: Unknown distribution option: 'tests_require'
+  warnings.warn(msg)
+running develop
+running egg_info
+creating urdf.egg-info
+writing urdf.egg-info/PKG-INFO
+writing dependency_links to urdf.egg-info/dependency_links.txt
+writing requirements to urdf.egg-info/requires.txt
+writing top-level names to urdf.egg-info/top_level.txt
+writing manifest file 'urdf.egg-info/SOURCES.txt'
+reading manifest file 'urdf.egg-info/SOURCES.txt'
+writing manifest file 'urdf.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/lydia-chheng/urdf_ws/install/urdf/lib/python3.10/site-packages/urdf.egg-link (link to .)
+
+Installed /home/lydia-chheng/urdf_ws/build/urdf
+running symlink_data
+creating /home/lydia-chheng/urdf_ws/install/urdf/share/ament_index/resource_index/packages
+symbolically linking /home/lydia-chheng/urdf_ws/build/urdf/resource/urdf -> /home/lydia-chheng/urdf_ws/install/urdf/share/ament_index/resource_index/packages
+creating /home/lydia-chheng/urdf_ws/install/urdf/share/urdf
+symbolically linking /home/lydia-chheng/urdf_ws/build/urdf/package.xml -> /home/lydia-chheng/urdf_ws/install/urdf/share/urdf
+creating /home/lydia-chheng/urdf_ws/install/urdf/share/urdf/launch
+symbolically linking /home/lydia-chheng/urdf_ws/build/urdf/launch/demo_launch.py -> /home/lydia-chheng/urdf_ws/install/urdf/share/urdf/launch
+symbolically linking /home/lydia-chheng/urdf_ws/build/urdf/urdf/__init__.py -> /home/lydia-chheng/urdf_ws/install/urdf/share/urdf
+symbolically linking /home/lydia-chheng/urdf_ws/build/urdf/urdf/r2d2.urdf.xml -> /home/lydia-chheng/urdf_ws/install/urdf/share/urdf
+symbolically linking /home/lydia-chheng/urdf_ws/build/urdf/urdf/r2d2.rviz -> /home/lydia-chheng/urdf_ws/install/urdf/share/urdf

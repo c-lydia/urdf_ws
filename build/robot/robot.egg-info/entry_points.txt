@@ -1,0 +1,3 @@
+[console_scripts]
+odometry_publisher = robot.Odom_publisher:main
+odometry_subscriber = robot.Odom_subscriber:main

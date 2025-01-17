@@ -1,0 +1,22 @@
+[1.457s] Invoking command in '/home/lydia-chheng/urdf_ws/build/robot': PYTHONPATH=/home/lydia-chheng/urdf_ws/build/robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lydia-chheng/urdf_ws/install/robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/lydia-chheng/urdf_ws/build/robot/build --no-deps symlink_data --force
+[1.770s] /home/lydia-chheng/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:261: UserWarning: Unknown distribution option: 'tests_require'
+[1.770s]   warnings.warn(msg)
+[2.197s] running develop
+[2.636s] running egg_info
+[2.670s] writing robot.egg-info/PKG-INFO
+[2.670s] writing dependency_links to robot.egg-info/dependency_links.txt
+[2.671s] writing requirements to robot.egg-info/requires.txt
+[2.672s] writing top-level names to robot.egg-info/top_level.txt
+[2.739s] reading manifest file 'robot.egg-info/SOURCES.txt'
+[2.743s] writing manifest file 'robot.egg-info/SOURCES.txt'
+[2.783s] running build_ext
+[2.784s] Creating /home/lydia-chheng/urdf_ws/install/robot/lib/python3.10/site-packages/robot.egg-link (link to .)
+[2.785s] 
+[2.785s] Installed /home/lydia-chheng/urdf_ws/build/robot
+[2.785s] running symlink_data
+[2.786s] symbolically linking /home/lydia-chheng/urdf_ws/build/robot/resource/robot -> /home/lydia-chheng/urdf_ws/install/robot/share/ament_index/resource_index/packages
+[2.786s] symbolically linking /home/lydia-chheng/urdf_ws/build/robot/package.xml -> /home/lydia-chheng/urdf_ws/install/robot/share/robot
+[2.787s] symbolically linking /home/lydia-chheng/urdf_ws/build/robot/launch/display.launch.py -> /home/lydia-chheng/urdf_ws/install/robot/share/robot/launch
+[2.787s] symbolically linking /home/lydia-chheng/urdf_ws/build/robot/urdf/robot.urdf -> /home/lydia-chheng/urdf_ws/install/robot/share/robot/urdf
+[2.788s] symbolically linking /home/lydia-chheng/urdf_ws/build/robot/rviz/display_config.rviz -> /home/lydia-chheng/urdf_ws/install/robot/share/robot/rviz
+[2.845s] Invoked command in '/home/lydia-chheng/urdf_ws/build/robot' returned '0': PYTHONPATH=/home/lydia-chheng/urdf_ws/build/robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lydia-chheng/urdf_ws/install/robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/lydia-chheng/urdf_ws/build/robot/build --no-deps symlink_data --force

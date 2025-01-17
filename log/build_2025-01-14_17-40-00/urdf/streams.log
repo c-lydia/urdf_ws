@@ -1,0 +1,28 @@
+[1.609s] Invoking command in '/home/lydia-chheng/urdf_ws/build/urdf': PYTHONPATH=/home/lydia-chheng/urdf_ws/build/urdf/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lydia-chheng/urdf_ws/install/urdf/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/lydia-chheng/urdf_ws/build/urdf/build --no-deps symlink_data
+[1.889s] /home/lydia-chheng/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:261: UserWarning: Unknown distribution option: 'tests_require'
+[1.889s]   warnings.warn(msg)
+[2.210s] running develop
+[2.626s] running egg_info
+[2.658s] creating urdf.egg-info
+[2.659s] writing urdf.egg-info/PKG-INFO
+[2.659s] writing dependency_links to urdf.egg-info/dependency_links.txt
+[2.660s] writing requirements to urdf.egg-info/requires.txt
+[2.660s] writing top-level names to urdf.egg-info/top_level.txt
+[2.660s] writing manifest file 'urdf.egg-info/SOURCES.txt'
+[2.723s] reading manifest file 'urdf.egg-info/SOURCES.txt'
+[2.725s] writing manifest file 'urdf.egg-info/SOURCES.txt'
+[2.759s] running build_ext
+[2.759s] Creating /home/lydia-chheng/urdf_ws/install/urdf/lib/python3.10/site-packages/urdf.egg-link (link to .)
+[2.760s] 
+[2.760s] Installed /home/lydia-chheng/urdf_ws/build/urdf
+[2.760s] running symlink_data
+[2.760s] creating /home/lydia-chheng/urdf_ws/install/urdf/share/ament_index/resource_index/packages
+[2.761s] symbolically linking /home/lydia-chheng/urdf_ws/build/urdf/resource/urdf -> /home/lydia-chheng/urdf_ws/install/urdf/share/ament_index/resource_index/packages
+[2.761s] creating /home/lydia-chheng/urdf_ws/install/urdf/share/urdf
+[2.761s] symbolically linking /home/lydia-chheng/urdf_ws/build/urdf/package.xml -> /home/lydia-chheng/urdf_ws/install/urdf/share/urdf
+[2.761s] creating /home/lydia-chheng/urdf_ws/install/urdf/share/urdf/launch
+[2.762s] symbolically linking /home/lydia-chheng/urdf_ws/build/urdf/launch/demo_launch.py -> /home/lydia-chheng/urdf_ws/install/urdf/share/urdf/launch
+[2.762s] symbolically linking /home/lydia-chheng/urdf_ws/build/urdf/urdf/__init__.py -> /home/lydia-chheng/urdf_ws/install/urdf/share/urdf
+[2.762s] symbolically linking /home/lydia-chheng/urdf_ws/build/urdf/urdf/r2d2.urdf.xml -> /home/lydia-chheng/urdf_ws/install/urdf/share/urdf
+[2.763s] symbolically linking /home/lydia-chheng/urdf_ws/build/urdf/urdf/r2d2.rviz -> /home/lydia-chheng/urdf_ws/install/urdf/share/urdf
+[2.835s] Invoked command in '/home/lydia-chheng/urdf_ws/build/urdf' returned '0': PYTHONPATH=/home/lydia-chheng/urdf_ws/build/urdf/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lydia-chheng/urdf_ws/install/urdf/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/lydia-chheng/urdf_ws/build/urdf/build --no-deps symlink_data

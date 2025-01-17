@@ -1,0 +1,9 @@
+-I/home/lydia-chheng/urdf_ws/ros_tutorials/turtlesim/include
+-I/usr/include/x86_64-linux-gnu/qt5
+-I/usr/include/x86_64-linux-gnu/qt5/QtWidgets
+-I/usr/include/x86_64-linux-gnu/qt5/QtGui
+-I/usr/include/x86_64-linux-gnu/qt5/QtCore
+-I/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++
+-o
+/home/lydia-chheng/urdf_ws/build/turtlesim/include/turtlesim/moc_turtle_frame.cpp
+/home/lydia-chheng/urdf_ws/ros_tutorials/turtlesim/include/turtlesim/turtle_frame.hpp
